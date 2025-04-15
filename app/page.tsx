@@ -59,7 +59,7 @@ export default function Home() {
             <Button size="lg" className="bg-white text-black hover:bg-gray-100">
               Book Now
             </Button>
-            <Button size="lg" variant="outline" className="text-white border-white hover:bg-white/20">
+            <Button size="lg" variant="outline" className="text-white text-black hover:bg-white/20">
               View Services
             </Button>
           </motion.div>
